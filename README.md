@@ -93,6 +93,7 @@ If you plan to use the dataset please make sure to cite our paper:-
   year={2023}
   }
 ```
-<img src="https://github.com/3ZadeSSG/LFSphereNet/blob/main/assets/miun_logo.png">
-<img src="https://github.com/3ZadeSSG/LFSphereNet/blob/main/assets/plenoptima.png">
-
+<p float="center">
+    <img src="https://github.com/3ZadeSSG/LFSphereNet/blob/main/assets/miun_logo.png" width="200" />
+    <img src="https://github.com/3ZadeSSG/LFSphereNet/blob/main/assets/plenoptima.png" width="200" />
+</p>
