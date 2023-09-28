@@ -7,7 +7,7 @@ This repo contains the dataset scripts and the actual dataset used in paper **"L
 2. **Real Photographic Light Field Data (~1.18 GB)** [Download URL will be made available soon]
 
 
-Supplementary Video can be accessed from here: [Video URL]("https://github.com/3ZadeSSG/LFSphereNet/blob/main/assets/LFSphereNet_CVMP_Supplemental_Materials.mp4")
+Supplementary Video can be accessed from here: [Video URL]("/assets/LFSphereNet_CVMP_Supplemental_Materials.mp4")
 
 
 ## Generating the dataset using the Blender Scripts
