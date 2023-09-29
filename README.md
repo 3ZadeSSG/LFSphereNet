@@ -2,9 +2,11 @@
 
 This repo contains the dataset scripts and the actual dataset used in paper **"LFSphereNet: Real Time Spherical Light Field Reconstruction from a Single Omnidirectional Image"**
 
-### Dataset Links:-
-1. **Spherical Light Field Dataset (~14 GB)** [Download URL will be made available soon]
-2. **Real Photographic Light Field Data (~1.18 GB)** [Download URL will be made available soon]
+### Dataset Information:-
+1. **Spherical Light Field Dataset (~14 GB)** 
+2. **Real Photographic Light Field Data (~1.18 GB)** 
+
+Download it as zip file from [here](https://doi.org/10.6084/m9.figshare.24219337)
 
 
 Supplementary Video can be accessed from here: [Video File](/assets/LFSphereNet%20_CVMP_Supplemental_Materials.mp4)
