@@ -84,6 +84,12 @@ The scene files can be found on blender's official website under demos section. 
 4. Italian Flat
 5. Barcelona
 
+### Acknowlegments
+
+* The computations were enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS) and the Swedish National Infrastructure for Computing (SNIC) at Alvis (https://www.c3se.chalmers.se/about/Alvis/) partially funded by the Swedish Research Council through grant agreements no. 2022-06725 and no. 2018-05973.
+* The work was supported by the European Joint Doctoral Programme on Plenoptic Imaging (PLENOPTIMA) through the European Union’s Horizon 2020 research and innovation programme
+under the Marie Skłodowska-Curie Grant Agreement No. 956770
+
 ### References
 The initial code for the scenes has been taken from the paper [Omni-NeRF: Neural Radiance Field from 360° Image Captures](https://ieeexplore.ieee.org/document/9859817).
 
